@@ -1,0 +1,16 @@
+Item,Current Quantity,Threshold
+Laptops,10,50
+Mice,150,100
+Keyboards,20,100
+Monitors,30,40
+Headphones,0,20
+Printers,12,30
+USB Cables,80,100
+Keypads,18,25
+Speakers,45,60
+Routers,8,25
+SSDs,65,40
+RAM Sticks,15,50
+Webcams,,
+Desks,invalid,10
+Chairs,120,50

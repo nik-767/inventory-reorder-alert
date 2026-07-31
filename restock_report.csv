@@ -1,0 +1,11 @@
+Item,Current Quantity,Threshold,Status,Priority,Suggested Reorder Quantity
+Laptops,10,50,Restock Needed,Critical,90
+Keyboards,20,100,Restock Needed,Critical,180
+Monitors,30,40,Restock Needed,Low,50
+Headphones,0,20,Restock Needed,Critical,40
+Printers,12,30,Restock Needed,Low,48
+USB Cables,80,100,Restock Needed,Low,120
+Keypads,18,25,Restock Needed,Low,32
+Speakers,45,60,Restock Needed,Low,75
+Routers,8,25,Restock Needed,Low,42
+RAM Sticks,15,50,Restock Needed,Low,85
